@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allImages</folder>
+	<filename>WIN_20240421_00_14_28_Pro.jpg</filename>
+	<path>C:\Users\nadhi\Desktop\another\RealTimeObjectDetection\Tensorflow\workspace\images\allImages\WIN_20240421_00_14_28_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>577</ymin>
+			<xmax>1110</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>
