@@ -19,11 +19,11 @@ cap.set(4, 640)
 
 # model
 # model = YOLO("best.pt")
-model = YOLO("pre-trained models/updated_asl.pt")
+model = YOLO("pre-trained models/nadhim_asl.pt")
 
 
 
-classNames = ["hello","I love you","please","good","how","thanks","what","name","you"]
+classNames = ["hello","I love you","please","yes","how","thanks","what","name","you"]
 
 user_reply = []
 
