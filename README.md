@@ -23,7 +23,7 @@ Based on the limited vocabulary detected, the app can construct meaningful sente
 ## A Fun Backstory
 We were complete noobs at the time of building the project. When we were looking for resources to build, we couldn't literally find ANY suitable model to train/run. Most of the sign detection models were built out of Tensorflow and brother when I tell you it didn't WORK AT ALL due to dependecies error issue 😤. Yes, TF might've worked for this project in the past, but it doesn't anymore. 
 
-Frustrated with TF we were about to ditch the project, until we finally figured out a way to build this project. That time I told myself, if this ever works out, I'm gonna make this open source so that others don't suffer 🗿
+Frustrated with TF we were about to ditch the project, until we finally figured out a way to build this project. That time I told myself that if this ever works out, I'm gonna make this open source such that others don't have to suffer like we did 🗿
 
 So, here's the PyTorch file of the pretrained model. 
 
