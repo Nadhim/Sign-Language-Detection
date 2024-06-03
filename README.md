@@ -36,7 +36,7 @@ T. Mohamed Nadhim
 
 
 - ### Contributors
-    - [T. Mohamed Nadhim]("https://github.com/nadhim")
+    - [T. Mohamed Nadhim]("https://linkedin.com/in/mohamed-nadhim")
     - Mohamed Fardeen I
     - Jayashree C G
 
@@ -65,6 +65,8 @@ T. Mohamed Nadhim
 ```
 
 ## Demo
+### ![LinkedIn Post]("https://www.linkedin.com/posts/mohamed-nadhim_machinelearning-ai-signlanguage-activity-7201996303717867521-YiDh?utm_source=share&utm_medium=member_desktop")
+
 <img src="assets/demo.png" alt="demo" style="width:500px; border-radius:10px;"/>
 <p></p>
 <img src="assets/demo2.png" alt="demo" style="width:500px; border-radius:10px;"/>
