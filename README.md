@@ -65,7 +65,7 @@ T. Mohamed Nadhim
 ```
 
 ## Demo
-### [LinkedIn Post]("https://www.linkedin.com/posts/mohamed-nadhim_machinelearning-ai-signlanguage-activity-7201996303717867521-YiDh?utm_source=share&utm_medium=member_desktop")
+[LinkedIn Post]("https://www.linkedin.com/posts/mohamed-nadhim_machinelearning-ai-signlanguage-activity-7201996303717867521-YiDh?utm_source=share&utm_medium=member_desktop")
 
 <img src="assets/demo.png" alt="demo" style="width:500px; border-radius:10px;"/>
 <p></p>
