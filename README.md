@@ -37,7 +37,7 @@ T. Mohamed Nadhim
 
 - ### Contributors
     - [T. Mohamed Nadhim](https://linkedin.com/in/mohamed-nadhim)
-    - Mohamed Fardeen I
+    - [Mohamed Fardeen I](https://www.linkedin.com/in/mohamed-fardeen-b0815626a)
     - Jayashree C G
 
 
